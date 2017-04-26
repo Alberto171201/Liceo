@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="muoviti.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="71"/>
+        <CursorPos X="27" Y="83"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="snake.lpr"/>
+        <TopLine Value="2"/>
+        <CursorPos X="16" Y="12"/>
+        <UsageCount Value="24"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="muoviti.lpr"/>
+        <Caret Line="136" Column="55" TopLine="110"/>
+      </Position1>
+      <Position2>
+        <Filename Value="muoviti.lpr"/>
+        <Caret Line="134" Column="37" TopLine="108"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
